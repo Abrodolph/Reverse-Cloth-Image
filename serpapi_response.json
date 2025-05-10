@@ -1,0 +1,298 @@
+{
+  "search_metadata": {
+    "id": "680bfb20a9d08f52faff0b6d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0a24e9078bbe8d43/680bfb20a9d08f52faff0b6d.json",
+    "created_at": "2025-04-25 21:14:08 UTC",
+    "processed_at": "2025-04-25 21:14:08 UTC",
+    "google_url": "https://www.google.com/search?q=red+floral+sundress+site%3Aamazon.com&oq=red+floral+sundress+site%3Aamazon.com&num=5&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0a24e9078bbe8d43/680bfb20a9d08f52faff0b6d.html",
+    "total_time_taken": 2.88
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "red floral sundress site:amazon.com",
+    "google_domain": "google.com",
+    "num": "5",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "red floral sundress site:amazon.com",
+    "total_results": 622000,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.amazon.com/Dresses-Women-Floral-Sleeve-Medium/dp/B0C1X2MCZ2",
+      "thumbnail": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/7957ba5f4cba6f9a0b1e962de1b3b85b2d87d4553c5e522f8625fed102557de1.jpeg",
+      "original": "https://m.media-amazon.com/images/I/81Hq4rd6utL._AC_UF894,1000_QL80_.jpg",
+      "title": "Dresses for Women - Ditsy Floral Print Knot Front Puff Sleeve Dress (Color  : Red, Size : Medium)",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/FENSACE-Womens-Sundress-Summer-Floral/dp/B09PD954XT",
+      "thumbnail": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/7957ba5f4cba6f9a2cdd7e5595b3b15416ca2104dba047801cfa9543f0424b13.jpeg",
+      "original": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/35c11b91-2c94-4b4e-8c3c-0a1f6ece31ea.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+      "title": "FENSACE Womens Sundress Summer Floral Short Sleeve Wrap V Neck A-Line Midi  Dress at Amazon Women\u2019s Clothing store",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/Sleeveless-Spaghetti-Floral-Elastic-Summer/dp/B0B1XKBVMX",
+      "thumbnail": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/7957ba5f4cba6f9aff14d0b9783c6d83de6cb2f98e34f5ff0d397a4f50f00fbc.jpeg",
+      "original": "https://m.media-amazon.com/images/I/816YK+37A+L._AC_UY1000_.jpg",
+      "title": "Ejoyous Women's Red Floral Print Boho Maxi Dress - V-Neck, High Waist,  Sleeveless, Size M at Amazon Women\u2019s Clothing store",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/Roll-Up-Womens-Shirred-Sleeveless/dp/B0CCY38L4K",
+      "thumbnail": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/7957ba5f4cba6f9ab7a962eecc4e334c90cbdcefa606505d756e277189172a67.jpeg",
+      "original": "https://m.media-amazon.com/images/I/51FoOEVdDYL._AC_.jpg",
+      "title": "Amazon.com: Roll Up Women's Spring Summer Red Floral Print ...",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/Hawaiian-Tube-Sun-Dress-Flowers/dp/B00XZ2341M",
+      "thumbnail": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/7957ba5f4cba6f9a1e862178dd9cf61618ed0170553211000175a891317258e3.jpeg",
+      "original": "https://m.media-amazon.com/images/I/813oBJoB2BL._AC_UY1000_.jpg",
+      "title": "Hawaiian Tube Sun Dress - Red W/ White Flowers at Amazon Women\u2019s Clothing  store",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/Della-Floral-Wrap-Dress-Size/dp/B0CMT77DG3",
+      "thumbnail": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/7957ba5f4cba6f9ae14e064b4a152c54c8792e90f3b0f1d4fd6aa91f04718bcd.jpeg",
+      "original": "https://m.media-amazon.com/images/I/51q5JwN7iuL._AC_UY1000_.jpg",
+      "title": "Della Mel Red Floral Wrap Dress Size XL",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/Summer-Knitting-Sundress-Dresses-Wedding/dp/B0BXX31H2C",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTdSwr212D-AiUJ_wRczo_MaSX8R3btSKz8B8tsAWn-VlYhZb7UV0RNWE&s",
+      "original": "https://m.media-amazon.com/images/I/71trMxxPE-L._AC_UY1000_.jpg",
+      "title": "Amazon.com: Girls Cute Summer Knitting Cotton Short Sleeve ...",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/Ultra-Flirt-Womens-Floral-Juniors/dp/B09Y9DYF4G",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCD5dWf7qL2XaM5JKV1Fa4qRVbB4j1sHwZs3QLP5n-jOrvYAm3m2ouEbbpYw&s",
+      "original": "https://m.media-amazon.com/images/I/71ZrzAGwerL._AC_UY1000_.jpg",
+      "title": "ULTRA FLIRT Womens Red Floral Short Sleeve Scoop Neck Mini Baby Doll Dress M",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/Summer-Floral-Sleeve-Dresses-Straps/dp/B09TT46P9M",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_txxeIYdC5leUTuqflHXEMR0oQpbyPM107j1FqyLuY5b4YoMxQsXWnSSYqQ&s",
+      "original": "https://m.media-amazon.com/images/I/610K1cD8P-L._AC_SL1000_.jpg",
+      "title": "Summer red V Neck Floral Short Sleeve Dresses Straps High ...",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/FENSACE-Womens-Sundress-Summer-Floral/dp/B09PD954XT",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn_bb2gm9M0Ak9_WTQ3VE2yYdjFETc-FWUEd34ZYcBAUA6QT3so0jifjw&s",
+      "original": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0f2dc9f4-3c7f-455f-bb6f-ec6bf64b9ade.__CR0,0,600,450_PT0_SX600_V1___.jpg",
+      "title": "FENSACE Womens Sundress Summer Floral Short Sleeve Wrap V Neck A-Line Midi  Dress at Amazon Women\u2019s Clothing store",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/Dresses-Casual-Summer-Floral-Sundress/dp/B0BY2XBNXT",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7_yLi4IpYe3YwX3yG3MkDfxWDPzjtkNKy1o8-4Xr_B_cz-YEh6VjY1YE&s",
+      "original": "https://m.media-amazon.com/images/I/71kpqC1TCWL.jpg",
+      "title": "Amazon.com: Girls Dresses Size 8 Casual Girl's Cute Love Polka Dots Strap  Summer Dress for Casual Floral Sundress (Red, 6-7 Years) : Clothing, Shoes  & ...",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.amazon.com/Womens-Floral-Summer-Lantern-Sleeve/dp/B0C6PHNC22",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4dLS0oiAcnZQtvzibnYCuBCKBUal4JJjs83O1NJQCGGG_LgYQuL7D5HtEA&s",
+      "original": "https://m.media-amazon.com/images/I/71hf5hR0JHL._AC_UY350_.jpg",
+      "title": "Amazon.com: Women's Red Floral V Neck Dress Summer Short ...",
+      "source_name": "Amazon.com"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Red Floral Dress",
+      "link": "https://www.amazon.com/red-floral-dress/s?k=red+floral+dress",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/red-floral-dress/s%3Fk%3Dred%2Bfloral%2Bdress&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQFnoECCYQAQ",
+      "displayed_link": "https://www.amazon.com \u203a red-floral-dress \u203a k=red+flo...",
+      "thumbnail": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/f41825082ce78c724659b16121629665cb66acbeb29295587437b4df9840c432.jpeg",
+      "favicon": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/f41825082ce78c724659b16121629665f0447a49a7fc3107cc32662f2f0f462d.png",
+      "snippet": "Women's Summer Floral Maxi Dress Knot One Shoulder Sleeveless Ruffle Flowy Boho Beach Wedding Guest Dresses",
+      "snippet_highlighted_words": [
+        "Women's Summer Floral Maxi Dress"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price_from": 19,
+            "price_to": 60,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.5store rating (3K)",
+            "$19 to $60",
+            "30-day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 2,
+      "title": "FENSACE Womens Sundress Summer Floral Short ...",
+      "link": "https://www.amazon.com/FENSACE-Womens-Sundress-Summer-Floral/dp/B09PD954XT",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/FENSACE-Womens-Sundress-Summer-Floral/dp/B09PD954XT&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQFnoECCMQAQ",
+      "displayed_link": "https://www.amazon.com \u203a FENSACE-Womens-Sundre...",
+      "thumbnail": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/f41825082ce78c724659b16121629665582c7572277bae6cbddaf14123d2c4ac.jpeg",
+      "favicon": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/f41825082ce78c724659b161216296654b2d1a3a2de010404ad0c700781971c0.png",
+      "snippet": "Features: wrap v neck, ruffle short sleeve, a line, above knee length, floral dress, material is lightweight, flowy, soft.",
+      "snippet_highlighted_words": [
+        "floral dress"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 6.99,
+            "price_from": 28.99,
+            "price_to": 33.99,
+            "currency": "$",
+            "rating": 4.3,
+            "reviews": 3211
+          },
+          "extensions": [
+            "$28.99 to $33.99",
+            "In stock",
+            "4.3(3,211)",
+            "$6.99 delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 3,
+      "title": "SLNY Womens Floral Print Embellished Maxi Dress Red 8",
+      "link": "https://www.amazon.com/SLNY-Womens-Floral-Print-Embellished/dp/B0896W269F",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/SLNY-Womens-Floral-Print-Embellished/dp/B0896W269F&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQFnoECDgQAQ",
+      "displayed_link": "https://www.amazon.com \u203a SLNY-Womens-Floral-Print...",
+      "thumbnail": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/f41825082ce78c724659b16121629665c627096c509109a1a3da0da21d00b71e.jpeg",
+      "favicon": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/f41825082ce78c724659b16121629665e8fc5046beb4f7e047961b69de6cc51a.png",
+      "snippet": "About this item \u00b7 Size Type: Regular \u00b7 Neckline: V-Neck \u00b7 Pattern: Floral \u00b7 Sleeve Length: Short Sleeve \u00b7 Style: Gown | Occasion: Party/Cocktail | Dress Length: ...",
+      "snippet_highlighted_words": [
+        "Size Type: Regular"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 20.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$20.00",
+            "In stock",
+            "Free 30-day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 4,
+      "title": "Seamless Red Floral Flowers Women's Summer Sexy ...",
+      "link": "https://www.amazon.com/Seamless-Flowers-Backless-Adjustable-Sleeveless/dp/B0C7D29MHZ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Seamless-Flowers-Backless-Adjustable-Sleeveless/dp/B0C7D29MHZ&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQFnoECDUQAQ",
+      "displayed_link": "https://www.amazon.com \u203a Seamless-Flowers-Backless-...",
+      "favicon": "https://serpapi.com/searches/680bfb20a9d08f52faff0b6d/images/f41825082ce78c724659b16121629665d115a562cff97d508555771282f954cc.png",
+      "snippet": "Occasions: Unique crossed suspenders design to prevent slippage, you can dress it up very easily for wedding, honeymoon, daily outings, dating, meeting, shopping, vacations, beach, party, clubs, work style.",
+      "snippet_highlighted_words": [
+        "Unique crossed suspenders design"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 34.99,
+            "currency": "$"
+          },
+          "extensions": [
+            "$34.99",
+            "Out of stock"
+          ]
+        }
+      },
+      "missing": [
+        "sundress"
+      ],
+      "must_include": {
+        "word": "sundress",
+        "link": "https://www.google.com/search?num=5&sca_esv=c10bdb9112c5c8ba&q=red+floral+%22sundress%22+site:amazon.com&sa=X&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ5t4CegQIORAB"
+      },
+      "source": "Amazon.com"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=5&sca_esv=c10bdb9112c5c8ba&q=red+floral+sundress+site:amazon.com&udm=2&source=univ&fir=tJGgrkgZoh7_OM%252Cud_DF7IlG9zSMM%252C_%253BPA4RjAh46IXMfM%252C6_cRX0h7q0EYkM%252C_%253B3ANCkH1-_Age5M%252Ccc_4Jh4Yv2YplM%252C_%253B9OFoNSw4P0eOqM%252C24KBILhgJnTFtM%252C_%253Blnt2BJdvw021XM%252CpTEm4jXyNd2C_M%252C_%253B5zM2lUisvsQmzM%252C0R3TtAM3Ms4yUM%252C_%253BXHdVrGTg8bSdjM%252C_WiUUcsjx01kVM%252C_%253BW1Y21-Bihy0LzM%252C4aLv7yEs1OH6gM%252C_%253BmjEUi8cNfQw1uM%252CNWBS2CpHSzQHyM%252C_%253Bwtmu6gAgz5iiiM%252C6_cRX0h7q0EYkM%252C_%253Bb2xOua3c2shXwM%252C4So_4MT2j5CUrM%252C_%253BLkEuSBzI-Cbl5M%252C9nOvK8ybReTRJM%252C_&usg=AI4_-kSWTE2_WXGIkm2b3kCqZHimk7J4zg&sa=X&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ7Al6BAgcEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Mini red floral sundress",
+      "link": "https://www.google.com/search?num=5&sca_esv=c10bdb9112c5c8ba&q=Mini+red+floral+sundress&sa=X&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=Mini+red+floral+sundress"
+    },
+    {
+      "block_position": 1,
+      "query": "Midi red floral sundress",
+      "link": "https://www.google.com/search?num=5&sca_esv=c10bdb9112c5c8ba&q=Midi+red+floral+sundress&sa=X&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=Midi+red+floral+sundress"
+    },
+    {
+      "block_position": 1,
+      "query": "Maxi red floral sundress",
+      "link": "https://www.google.com/search?num=5&sca_esv=c10bdb9112c5c8ba&q=Maxi+red+floral+sundress&sa=X&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=Maxi+red+floral+sundress"
+    },
+    {
+      "block_position": 1,
+      "query": "Women red floral sundress",
+      "link": "https://www.google.com/search?num=5&sca_esv=c10bdb9112c5c8ba&q=Women+red+floral+sundress&sa=X&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=Women+red+floral+sundress"
+    },
+    {
+      "block_position": 1,
+      "query": "Plus size red floral sundress",
+      "link": "https://www.google.com/search?num=5&sca_esv=c10bdb9112c5c8ba&q=Plus+size+red+floral+sundress&sa=X&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=Plus+size+red+floral+sundress"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=red+floral+sundress+site:amazon.com&num=5&sca_esv=c10bdb9112c5c8ba&ei=IvsLaOHzGJ6LwbkPoIOnsQw&start=5&sa=N&sstk=Af40H4WmoHbJ8FSOGQZIcHLlBeKFacTA5mBaR59p-UmqZv8epydYyhYxwH3JePu6GME0aoN6a9mCdRd8q4ciJwaqnjxo-t4xDfZC-g&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ8NMDegQIDRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=red+floral+sundress+site:amazon.com&num=5&sca_esv=c10bdb9112c5c8ba&ei=IvsLaOHzGJ6LwbkPoIOnsQw&start=5&sa=N&sstk=Af40H4WmoHbJ8FSOGQZIcHLlBeKFacTA5mBaR59p-UmqZv8epydYyhYxwH3JePu6GME0aoN6a9mCdRd8q4ciJwaqnjxo-t4xDfZC-g&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=red+floral+sundress+site:amazon.com&num=5&sca_esv=c10bdb9112c5c8ba&ei=IvsLaOHzGJ6LwbkPoIOnsQw&start=10&sa=N&sstk=Af40H4WmoHbJ8FSOGQZIcHLlBeKFacTA5mBaR59p-UmqZv8epydYyhYxwH3JePu6GME0aoN6a9mCdRd8q4ciJwaqnjxo-t4xDfZC-g&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=red+floral+sundress+site:amazon.com&num=5&sca_esv=c10bdb9112c5c8ba&ei=IvsLaOHzGJ6LwbkPoIOnsQw&start=15&sa=N&sstk=Af40H4WmoHbJ8FSOGQZIcHLlBeKFacTA5mBaR59p-UmqZv8epydYyhYxwH3JePu6GME0aoN6a9mCdRd8q4ciJwaqnjxo-t4xDfZC-g&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=red+floral+sundress+site:amazon.com&num=5&sca_esv=c10bdb9112c5c8ba&ei=IvsLaOHzGJ6LwbkPoIOnsQw&start=20&sa=N&sstk=Af40H4WmoHbJ8FSOGQZIcHLlBeKFacTA5mBaR59p-UmqZv8epydYyhYxwH3JePu6GME0aoN6a9mCdRd8q4ciJwaqnjxo-t4xDfZC-g&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=red+floral+sundress+site:amazon.com&num=5&sca_esv=c10bdb9112c5c8ba&ei=IvsLaOHzGJ6LwbkPoIOnsQw&start=25&sa=N&sstk=Af40H4WmoHbJ8FSOGQZIcHLlBeKFacTA5mBaR59p-UmqZv8epydYyhYxwH3JePu6GME0aoN6a9mCdRd8q4ciJwaqnjxo-t4xDfZC-g&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=red+floral+sundress+site:amazon.com&num=5&sca_esv=c10bdb9112c5c8ba&ei=IvsLaOHzGJ6LwbkPoIOnsQw&start=30&sa=N&sstk=Af40H4WmoHbJ8FSOGQZIcHLlBeKFacTA5mBaR59p-UmqZv8epydYyhYxwH3JePu6GME0aoN6a9mCdRd8q4ciJwaqnjxo-t4xDfZC-g&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=red+floral+sundress+site:amazon.com&num=5&sca_esv=c10bdb9112c5c8ba&ei=IvsLaOHzGJ6LwbkPoIOnsQw&start=35&sa=N&sstk=Af40H4WmoHbJ8FSOGQZIcHLlBeKFacTA5mBaR59p-UmqZv8epydYyhYxwH3JePu6GME0aoN6a9mCdRd8q4ciJwaqnjxo-t4xDfZC-g&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=red+floral+sundress+site:amazon.com&num=5&sca_esv=c10bdb9112c5c8ba&ei=IvsLaOHzGJ6LwbkPoIOnsQw&start=40&sa=N&sstk=Af40H4WmoHbJ8FSOGQZIcHLlBeKFacTA5mBaR59p-UmqZv8epydYyhYxwH3JePu6GME0aoN6a9mCdRd8q4ciJwaqnjxo-t4xDfZC-g&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ8tMDegQIDRAS",
+      "10": "https://www.google.com/search?q=red+floral+sundress+site:amazon.com&num=5&sca_esv=c10bdb9112c5c8ba&ei=IvsLaOHzGJ6LwbkPoIOnsQw&start=45&sa=N&sstk=Af40H4WmoHbJ8FSOGQZIcHLlBeKFacTA5mBaR59p-UmqZv8epydYyhYxwH3JePu6GME0aoN6a9mCdRd8q4ciJwaqnjxo-t4xDfZC-g&ved=2ahUKEwjhjIeGjfSMAxWeRTABHaDBKcYQ8tMDegQIDRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=5",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=5",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=5",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=10",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=15",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=20",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=25",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=30",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=35",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=40",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=5&q=red+floral+sundress+site%3Aamazon.com&start=45"
+    }
+  }
+}
