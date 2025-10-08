@@ -76,6 +76,7 @@ To run this project on your local machine, follow these steps:
     flask run
     ```
     The application will be available at `http://127.0.0.1:5000`.
+    
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
