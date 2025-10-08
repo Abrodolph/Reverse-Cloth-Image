@@ -32,3 +32,40 @@ Backend: Python, Flask
 Frontend: HTML, CSS 
 AI/ML: Hugging Face Transformers (BLIP-2) 
 APIs: SerpAPI (Google Search API) 
+
+
+🔧 Setup and Local Installation
+To run this project on your local machine, follow these steps:
+Clone the repository:
+Bash
+git clone https://github.com/[Your-GitHub-Username]/[Your-Repo-Name].git
+cd [Your-Repo-Name]
+Create and activate a virtual environment:
+
+Bash
+python -m venv venv
+# On Windows
+venv\Scripts\activate
+# On macOS/Linux
+source venv/bin/activate
+Install the required dependencies:
+
+Bash
+pip install -r requirements.txt
+Set up environment variables:
+Create a .env file in the root directory.
+Add your SerpAPI key to the file:
+SERPAPI_API_KEY="Your_SerpAPI_Secret_Key"
+
+Run the application:
+Bash
+flask run
+The application will be available at http://127.0.0.1:5000.
+
+📄 License
+Distributed under the MIT License. See LICENSE for more information.
+
+👤 Contact
+Eshit Saini 
+Email: saini.eshit@gmail.com 
+LinkedIn: https://www.linkedin.com/in/eshit-saini-605430310/
