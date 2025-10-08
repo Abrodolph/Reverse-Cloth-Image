@@ -2,7 +2,7 @@
 AI-Powered Fashion Reverse Image Search
 An AI-powered reverse image search tool that enhances fashion product discovery. This application allows users to upload an image of a clothing item and find visually similar products available on major e-commerce platforms like Amazon and Flipkart.
 
-✨ Key Features
+## ✨ Key Features
 Image-to-Product Search: Upload an image of any fashion item to find similar products.
 
 Semantic Understanding: Leverages a Vision-Language Model (BLIP-2) to understand the content of the image semantically.
@@ -11,7 +11,7 @@ E-commerce Integration: Retrieves live product listings, including names and lin
 
 User-Friendly Interface: A clean and simple web interface built with Flask for easy interaction.
 
-⚙️ How It Works
+## ⚙️ How It Works
 The project follows a simple yet powerful workflow to translate visual data into actionable search results:
 
 Image Upload: The user uploads an image through the Flask-based web interface.
@@ -24,64 +24,65 @@ Live Product Search: The application integrates with SerpAPI (Google Search API)
 
 Display Results: The top product results, including titles and links, are parsed and displayed to the user.
 
-🚀 Results & Impact
+## 🚀 Results & Impact
 The core innovation of this project is using a state-of-the-art vision-language model to bridge the gap between images and text-based search engines. This approach led to a 35% improvement in search query accuracy compared to traditional, simpler image-embedding techniques.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 Backend: Python, Flask 
+
 Frontend: HTML, CSS 
+
 AI/ML: Hugging Face Transformers (BLIP-2) 
+
 APIs: SerpAPI (Google Search API) 
 
 
-🔧 Setup and Local Installation
+## 🔧 Setup and Local Installation
 To run this project on your local machine, follow these steps:
 
-Clone the repository:
+1.  **Clone the repository:**
+    ```sh
+    git clone https://github.com/Abrodolph/Reverse-Cloth-Image.git
+    cd [Your-Repo-Name]
+    ```
+2.  **Create and activate a virtual environment:**
+    ```sh
+    python -m venv venv
+    ```
+    **On Windows:**
+    ```sh
+    venv\Scripts\activate
+    ```
+    **On macOS/Linux:**
+    ```sh
+    source venv/bin/activate
+    ```
 
-Bash
+3.  **Install the required dependencies:**
+    ```sh
+    pip install -r requirements.txt
+    ```
 
-git clone https://github.com/[Your-GitHub-Username]/[Your-Repo-Name].git
-cd [Your-Repo-Name]
-Create and activate a virtual environment:
+4.  **Set up environment variables:**
+    * Create a `.env` file in the root directory.
+    * Add your SerpAPI key to the file:
+    ```
+    SERPAPI_API_KEY="Your_SerpAPI_Secret_Key"
+    ```
 
-Bash
-
-python -m venv venv
-# On Windows
-venv\Scripts\activate
-# On macOS/Linux
-source venv/bin/activate
-Install the required dependencies:
-
-Bash
-
-pip install -r requirements.txt
-Set up environment variables:
-
-Create a .env file in the root directory.
-
-Add your SerpAPI key to the file:
-
-SERPAPI_API_KEY="Your_SerpAPI_Secret_Key"
-Run the application:
-
-Bash
-
-flask run
-The application will be available at http://127.0.0.1:5000.
-
+5.  **Run the application:**
+    ```sh
+    flask run
+    ```
+    The application will be available at `http://127.0.0.1:5000`.
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
-👤 Contact
-Eshit Saini 
-
+## 👤 Contact
+Eshit Saini:
 
 Email: saini.eshit@gmail.com 
 
+LinkedIn: https://www.linkedin.com/in/eshit-saini-605430310/
 
-LinkedIn: linkedin.com/in/your-profile 
-
-
-GitHub: github.com/your-username 
