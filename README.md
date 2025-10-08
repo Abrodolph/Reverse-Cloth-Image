@@ -44,7 +44,7 @@ To run this project on your local machine, follow these steps:
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/Abrodolph/Reverse-Cloth-Image.git
-    cd [Your-Repo-Name]
+    cd Reverse-Cloth-Image
     ```
 2.  **Create and activate a virtual environment:**
     ```sh
